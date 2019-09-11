@@ -1,0 +1,10 @@
+Package: adv_R_lab3
+Type: Package
+Title: Euclidean and Dijkstra
+Version: 1.0
+Date: 2019-09-11
+Author: Dimitriadis Spyridon, Mengxin Liu
+Maintainer: spydi472@student.liu.se
+Description: euclidian, dijkstra
+License: What license is it under?
+RoxygenNote: 6.1.1
