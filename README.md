@@ -1,2 +1,6 @@
-# Adv_R_Lab3
-Advanced R
+# Advanced Programming in R Lab 3
+
+Group 15
+
+Dimitriadis Spyridon
+Mengxin Liu 
